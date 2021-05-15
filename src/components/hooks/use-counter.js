@@ -1,6 +1,7 @@
 import { useState, useCounter } from "react";
 
-// using the keyword "use" is a MUST in order to use react hooks
+// in order to use React Hooks we should always stat with -use- keyword
+
 const useCounter = () => {
   const [counter, setCounter] = useState(0);
 
