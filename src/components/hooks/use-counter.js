@@ -2,7 +2,7 @@ import { useState, useCounter } from "react";
 
 // in order to use React Hooks we should always stat with -use- keyword
 
-const useCounter = () => {
+const useCounter = (forwards = true) => {
   const [counter, setCounter] = useState(0);
 
   useEffect(() => {
