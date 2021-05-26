@@ -18,4 +18,4 @@ const useCounter = (forwards = true) => {
   }, [forwards]);
   return counter;
 };
-export default useCounter;
+export default (useCounter0;
