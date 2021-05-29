@@ -1,6 +1,6 @@
 import React from "react";
 
-// import Card from "./Card";
+import Card from "./Card";
 import useCounter from "../hooks/use-counter";
 
 const ForwardCounter = () => {
