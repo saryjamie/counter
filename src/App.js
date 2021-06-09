@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import BackwardCounter from "./components/BackwardCounter";
 import ForwardCounter from "./components/ForwardCounter";
 
