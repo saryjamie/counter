@@ -1,4 +1,4 @@
-import { useState, useCounter } from "react";
+import { useState } from "react";
 
 // in order to use React Hooks we should always stat with -use- keyword
 
